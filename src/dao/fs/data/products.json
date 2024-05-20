@@ -1,0 +1,302 @@
+[
+    {
+        "_id": 1,
+        "title": "Televisor LED",
+        "description": "Un televisor de alta definición con tecnología LED",
+        "code": "TV001",
+        "price": 799.99,
+        "status": true,
+        "stock": 10,
+        "category": "Televisores",
+        "thumbnails": [
+            "https://example.com/led_tv.jpg",
+            "https://example.com/led_tv2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 2,
+        "title": "Smart TV",
+        "description": "Un televisor inteligente con acceso a aplicaciones y contenido en línea",
+        "code": "TV002",
+        "price": 999.99,
+        "status": true,
+        "stock": 5,
+        "category": "Televisores",
+        "thumbnails": [
+            "https://example.com/smart_tv.jpg",
+            "https://example.com/smart_tv2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 3,
+        "title": "Televisor 4K",
+        "description": "Un televisor con resolución 4K para una experiencia de visualización inmersiva",
+        "code": "TV003",
+        "price": 1499.99,
+        "status": true,
+        "stock": 8,
+        "category": "Televisores",
+        "thumbnails": [
+            "https://example.com/4k_tv.jpg",
+            "https://example.com/4k_tv2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 4,
+        "title": "Televisor Curvo",
+        "description": "Un televisor con pantalla curva para una mayor sensación de inmersión",
+        "code": "TV004",
+        "price": 1299.99,
+        "status": true,
+        "stock": 7,
+        "category": "Televisores",
+        "thumbnails": [
+            "https://example.com/curved_tv.jpg",
+            "https://example.com/curved_tv2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 5,
+        "title": "Televisor OLED",
+        "description": "Un televisor con tecnología OLED para colores más vivos y negros más profundos",
+        "code": "TV005",
+        "price": 1999.99,
+        "status": true,
+        "stock": 3,
+        "category": "Televisores",
+        "thumbnails": [
+            "https://example.com/oled_tv.jpg",
+            "https://example.com/oled_tv2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 6,
+        "title": "Altavoces Bluetooth",
+        "description": "Altavoces portátiles con conectividad Bluetooth para reproducir música de forma inalámbrica",
+        "code": "AU001",
+        "price": 79.99,
+        "status": true,
+        "stock": 10,
+        "category": "Audio",
+        "thumbnails": [
+            "https://example.com/altavoces1.jpg",
+            "https://example.com/altavoces2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 7,
+        "title": "Auriculares Inalámbricos",
+        "description": "Auriculares inalámbricos con cancelación de ruido y sonido de alta calidad",
+        "code": "AU002",
+        "price": 149.99,
+        "status": true,
+        "stock": 5,
+        "category": "Audio",
+        "thumbnails": [
+            "https://example.com/auriculares1.jpg",
+            "https://example.com/auriculares2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 8,
+        "title": "Barra de Sonido",
+        "description": "Barra de sonido compacta para mejorar la calidad de audio de tu televisor",
+        "code": "AU003",
+        "price": 199.99,
+        "status": true,
+        "stock": 8,
+        "category": "Audio",
+        "thumbnails": [
+            "https://example.com/barradesonido1.jpg",
+            "https://example.com/barradesonido2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 9,
+        "title": "Micrófono USB",
+        "description": "Micrófono de condensador con conexión USB para grabaciones de alta calidad",
+        "code": "AU004",
+        "price": 89.99,
+        "status": true,
+        "stock": 12,
+        "category": "Audio",
+        "thumbnails": [
+            "https://example.com/microfono1.jpg",
+            "https://example.com/microfono2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 10,
+        "title": "Amplificador de Audio",
+        "description": "Amplificador de audio estéreo para mejorar la potencia y calidad de sonido de tus altavoces",
+        "code": "AU005",
+        "price": 299.99,
+        "status": true,
+        "stock": 3,
+        "category": "Audio",
+        "thumbnails": [
+            "https://example.com/amplificador1.jpg",
+            "https://example.com/amplificador2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 11,
+        "title": "Laptop",
+        "description": "Una laptop de última generación con procesador Intel Core i7 y 16GB de RAM",
+        "code": "CO001",
+        "price": 1299.99,
+        "status": true,
+        "stock": 10,
+        "category": "Computacion",
+        "thumbnails": [
+            "https://example.com/laptop1.jpg",
+            "https://example.com/laptop1_2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 12,
+        "title": "Monitor",
+        "description": "Un monitor de alta resolución de 27 pulgadas con tecnología IPS",
+        "code": "CO002",
+        "price": 299.99,
+        "status": true,
+        "stock": 5,
+        "category": "Computacion",
+        "thumbnails": [
+            "https://example.com/monitor1.jpg",
+            "https://example.com/monitor1_2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 13,
+        "title": "Teclado mecánico",
+        "description": "Un teclado mecánico con retroiluminación RGB y switches Cherry MX",
+        "code": "CO003",
+        "price": 99.99,
+        "status": true,
+        "stock": 8,
+        "category": "Computacion",
+        "thumbnails": [
+            "https://example.com/teclado1.jpg",
+            "https://example.com/teclado1_2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 14,
+        "title": "Mouse gamer",
+        "description": "Un mouse gamer con sensor óptico de alta precisión y botones programables",
+        "code": "CO004",
+        "price": 49.99,
+        "status": true,
+        "stock": 12,
+        "category": "Computacion",
+        "thumbnails": [
+            "https://example.com/mouse1.jpg",
+            "https://example.com/mouse1_2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 15,
+        "title": "Impresora multifuncional",
+        "description": "Una impresora multifuncional con capacidad de impresión, escaneo y copiado",
+        "code": "CO005",
+        "price": 199.99,
+        "status": true,
+        "stock": 3,
+        "category": "Computacion",
+        "thumbnails": [
+            "https://example.com/impresora1.jpg",
+            "https://example.com/impresora1_2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 16,
+        "title": "Refrigerador",
+        "description": "Un refrigerador de alta capacidad con tecnología de enfriamiento avanzada",
+        "code": "EL001",
+        "price": 1299.99,
+        "status": true,
+        "stock": 3,
+        "category": "Electrodomesticos",
+        "thumbnails": [
+            "https://example.com/refrigerator.jpg",
+            "https://example.com/refrigerator2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 17,
+        "title": "Lavadora",
+        "description": "Una lavadora eficiente con múltiples programas de lavado",
+        "code": "EL002",
+        "price": 899.99,
+        "status": true,
+        "stock": 6,
+        "category": "Electrodomesticos",
+        "thumbnails": [
+            "https://example.com/washingmachine.jpg",
+            "https://example.com/washingmachine2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 18,
+        "title": "Aspiradora",
+        "description": "Una aspiradora potente con sistema de filtración avanzado",
+        "code": "EL003",
+        "price": 249.99,
+        "status": true,
+        "stock": 10,
+        "category": "Electrodomesticos",
+        "thumbnails": [
+            "https://example.com/vacuum.jpg",
+            "https://example.com/vacuum2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 19,
+        "title": "Horno de Microondas",
+        "description": "Un horno de microondas con múltiples funciones de cocción",
+        "code": "EL004",
+        "price": 179.99,
+        "status": true,
+        "stock": 8,
+        "category": "Electrodomesticos",
+        "thumbnails": [
+            "https://example.com/microwave.jpg",
+            "https://example.com/microwave2.jpg"
+        ],
+        "owner": "admin"
+    },
+    {
+        "_id": 20,
+        "title": "Cafetera",
+        "description": "Una cafetera automática con capacidad para preparar diferentes tipos de café",
+        "code": "EL005",
+        "price": 149.99,
+        "status": true,
+        "stock": 12,
+        "category": "Electrodomesticos",
+        "thumbnails": [
+            "https://example.com/coffeemaker.jpg",
+            "https://example.com/coffeemaker2.jpg"
+        ],
+        "owner": "admin"
+    }
+]
